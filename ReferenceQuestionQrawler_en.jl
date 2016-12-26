@@ -3,7 +3,7 @@
 doc=
 """
   レファレンス質問収集プログラム
-  QuestionPointレファレンス協同より
+  QuestionPoint KnowledgeBaseより
 """
 
 using DataFrames
