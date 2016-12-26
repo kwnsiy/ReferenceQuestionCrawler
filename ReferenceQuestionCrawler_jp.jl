@@ -85,7 +85,7 @@ end
 
 # page_idを取得
 id_list = "jp_reference_id.dat"
-#collect_id(id_list)
+collect_id(id_list)
 
 # 記事取得
 page_dict = "jp_reference_description.dict"
